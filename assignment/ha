@@ -1,0 +1,12 @@
+Display ha heartbeat counters  
+ 
+ 
+ Heartbeat stats
+ ---------------
+ Controller IP  Active Reference Count  Total Heartbeat Sent  Total Heartbeat Received  Last Missed Heartbeat (Count) Time
+ -------------  ----------------------  --------------------  ------------------------  ----------------------------------
+ 
+ 
+L=LMS, F=Sent Failover Request to AP, H=AP flaged for Inter Controller Heartbeat
+ 
+ 

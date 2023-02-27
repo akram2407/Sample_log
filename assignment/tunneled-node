@@ -1,0 +1,9 @@
+Display tunneled-node state  
+ 
+ 
+ Tunneled Node State
+ -------------------
+ IP  MAC  port  state  vlan  tunnel  inactive-time
+ --  ---  ----  -----  ----  ------  -------------
+ 
+ 

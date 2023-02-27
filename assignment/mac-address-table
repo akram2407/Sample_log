@@ -1,0 +1,50 @@
+Display mac-address-table  
+ 
+ 
+ Dynamic Address Count: 		 0
+ Static Address (User-defined) Count: 		 0
+ System Self Address Count: 		 0
+ Total MAC  Addresses : 		 36
+ Maximum MAC addresses : 		 36
+ MAC Address Table 
+ ------------------
+ Destination Address  Address Type  VLAN  Destination Port
+ -------------------  ------------  ----  ----------------
+ 00:16:3e:77:96:58    Mgmt          1     vlan 1
+ 00:16:3e:47:3c:fa    Mgmt          1     vlan 1
+ 00:16:3e:77:96:58    Mgmt          84    vlan 84
+ 00:16:3e:47:3c:fa    Mgmt          84    vlan 84
+ 00:16:3e:77:96:58    Mgmt          104   vlan 104
+ 00:16:3e:47:3c:fa    Mgmt          104   vlan 104
+ 00:16:3e:77:96:58    Mgmt          220   vlan 220
+ 00:16:3e:47:3c:fa    Mgmt          220   vlan 220
+ 00:16:3e:77:96:58    Mgmt          3228  vlan 3228
+ 00:16:3e:47:3c:fa    Mgmt          3228  vlan 3228
+ 00:16:3e:77:96:58    Mgmt          4004  vlan 4004
+ 00:16:3e:47:3c:fa    Mgmt          4004  vlan 4004
+ 00:16:3e:77:96:58    Mgmt          4008  vlan 4008
+ 00:16:3e:47:3c:fa    Mgmt          4008  vlan 4008
+ 00:16:3e:77:96:58    Mgmt          4012  vlan 4012
+ 00:16:3e:47:3c:fa    Mgmt          4012  vlan 4012
+ 00:16:3e:77:96:58    Mgmt          4016  vlan 4016
+ 00:16:3e:47:3c:fa    Mgmt          4016  vlan 4016
+ 00:16:3e:77:96:58    Mgmt          4020  vlan 4020
+ 00:16:3e:47:3c:fa    Mgmt          4020  vlan 4020
+ 00:16:3e:77:96:58    Mgmt          4024  vlan 4024
+ 00:16:3e:47:3c:fa    Mgmt          4024  vlan 4024
+ 00:16:3e:77:96:58    Mgmt          4028  vlan 4028
+ 00:16:3e:47:3c:fa    Mgmt          4028  vlan 4028
+ 00:16:3e:77:96:58    Mgmt          4032  vlan 4032
+ 00:16:3e:47:3c:fa    Mgmt          4032  vlan 4032
+ 00:16:3e:77:96:58    Mgmt          4036  vlan 4036
+ 00:16:3e:47:3c:fa    Mgmt          4036  vlan 4036
+ 00:16:3e:77:96:58    Mgmt          4040  vlan 4040
+ 00:16:3e:47:3c:fa    Mgmt          4040  vlan 4040
+ 00:16:3e:77:96:58    Mgmt          4044  vlan 4044
+ 00:16:3e:47:3c:fa    Mgmt          4044  vlan 4044
+ 00:16:3e:77:96:58    Mgmt          4048  vlan 4048
+ 00:16:3e:47:3c:fa    Mgmt          4048  vlan 4048
+ 00:16:3e:77:96:58    Mgmt          4095  vlan 4095
+ 00:16:3e:47:3c:fa    Mgmt          4095  vlan 4095
+ 
+ 

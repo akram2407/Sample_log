@@ -1,0 +1,22 @@
+Display tpm errorlog  
+ 
+ 
+ 12092016:22:38:14>>ERROR>>Opened file /tmp/fieldPrivKeys/private.key.30
+ 12092016:22:38:14>>ERROR>>Closing file
+ 
+ 
+bject= /CN=CV0004818::00:16:3e:47:3c:fa
+ issuer= /DC=com/DC=Hiwinetworks/DC=dc-device-ca5/CN=device-ca5
+ serial=22B275CE0000004D2761
+ notBefore=Oct 15 03:12:41 2015 GMT
+ notAfter=Sep 14 03:21:14 2032 GMT
+ =====================================
+ Generated Factory certificate
+ =====================================
+ subject= /CN=CV0004818::00:16:3e:47:3c:fa/L=SW
+ issuer= /CN=CV0004818::00:16:3e:47:3c:fa
+ serial=22B275CE0000004D2761
+ notBefore=Oct 15 03:12:41 2015 GMT
+ notAfter=Sep 14 03:21:14 2032 GMT
+ 
+ 
